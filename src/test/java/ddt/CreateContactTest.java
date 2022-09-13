@@ -10,6 +10,8 @@ public class CreateContactTest {
 		System.out.println("contact is created");
 		
 		System.out.println("This is Engineer 2");
+
+		System.out.println("this is engineer 1");
 	}
 
 }
